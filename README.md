@@ -1,8 +1,8 @@
-# project-bueller
+# Project Bueller
 An open source attendance tracking system for meetup groups.
 
 ## History
-This project is being started by members of the freeCodeCamp Chicago Study Group and is initially being developed for our use in keeping track of attendance at our in-person meetups. We hope that eventually this becomes useful for others looking for a way to keep track of attendance at their meetups (or really any gathering where tracking attendance is useful).
+This project is being started by members of the [freeCodeCamp Chicago Study Group](https://www.freecodecamp.org/forum/c/united-states-study-groups/chicago) and is initially being developed for our use in keeping track of attendance at our in-person meetups. We hope that eventually this becomes useful for others looking for a way to keep track of attendance at their meetups (or really any gathering where tracking attendance is useful).
 
 ## Contributing
 The doc folder contains a sub-folder named `contributors` which contains documentation pertinent to contributors of this project.
