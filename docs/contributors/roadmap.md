@@ -19,7 +19,7 @@ Must have three types of user accounts: anonymous, attendee, and administrator.
 * RSVP to an event
 * Cancel an RSVP
 
-#### Administratorss must be able to:
+#### Administrators must be able to:
 
 * See a listing of past, current, and future events that exist in the system
 * Create an event (title, date/time, location, host, description)
