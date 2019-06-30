@@ -10,8 +10,9 @@ Check the [roadmap file](./roadmap.md) for now as initial development of the MVP
     git clone git@github.com:you/project-bueller.git
     ```
 
-3. Initial, one-time, git add of remote upstream repository:
+3. Initial, one-time, git add of remote upstream repository (be sure you are in the directory for the repo you just cloned):
     ```
+    cd project-bueller
     git remote add upstream git://github.com/rgroves/project-bueller.git
     ```
 
